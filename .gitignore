@@ -1,0 +1,17 @@
+# Ignore build output
+/target/
+*.jar
+
+# Ignore IDE files
+/.idea/
+/*.iml
+/.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore environment variable files
+.env
+
+# Ignore dependencies
+/lib/
